@@ -44,7 +44,7 @@ It combines data preprocessing, classification models, and a Streamlit web appli
 
 ```bash
 git clone <your-repo-link>
-cd CAT_1
+cd financial-exclusion-prediction
 ```
 
 ### 2. Create and activate virtual environment
