@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (optional – exclude if large)
+*.pkl
+*.joblib
+
+# Streamlit
+.streamlit/
